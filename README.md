@@ -64,7 +64,7 @@ The provided Docker images offer the following internal paths to be mounted to y
  </tr>
  <tr valign="top" style="vertical-align:top">
   <td>
-   <code>/data/webroot/default/</code><br/>
+   <code>/var/www/default/</code><br/>
   </td>
   <td>
    <code>/usr/local/tomcat/conf/server.xml</code><br/>
